@@ -92,6 +92,51 @@
               "isLoading": false,
               "responsiveBehavior": "fill",
               "autoPlay": false
+            },
+            {
+              "boxShadow": "none",
+              "mobileBottomRow": 27,
+              "widgetName": "AudioRecorder1",
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.6854d49465b2ead1c3155f6916b01d0d.svg",
+              "searchTags": [
+                "sound recorder",
+                "voice recorder"
+              ],
+              "topRow": 20,
+              "bottomRow": 27,
+              "parentRowSpace": 10,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "hideCard": false,
+              "mobileRightColumn": 18,
+              "animateLoading": true,
+              "parentColumnSpace": 14.8125,
+              "leftColumn": 2,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "isDisabled": false,
+              "key": "e04iby2fsh",
+              "isDeprecated": false,
+              "rightColumn": 18,
+              "widgetId": "ykd56mgzrp",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "minWidth": 450,
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "mobileTopRow": 20,
+              "responsiveBehavior": "fill",
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "mobileLeftColumn": 2,
+              "iconColor": "white"
             }
           ]
         },
